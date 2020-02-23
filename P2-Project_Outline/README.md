@@ -9,31 +9,29 @@ For this assignment, you will submit a high-level outline of your project. This 
 ### Overview
 Include overview here
 
-My project is for a hair salon. It will keep track of stylists, customers, inventory and payments. It can help an individual stylist or a salon with multiple stylists. I will try to make it possible to only use the parts you need.
+My project is a recipe builder for people with one of three health conditions. When someone chooses their condition recipe suggestions can be chosen. They can choose what type of meat they want or no meat and things like gluten free.
 
-It would be helpful if it could write this information to a spreadsheet but if not, to generate useful reports. I am not sure at this point if password protection is important for more than the individual using it. I don't intend to include any logging in by customers.
+The person can choose to leave out certain foods they don't like. My group chose the idea from a few suggestions from group participants. It will look through options from online sources. They will get the ingredients and cooking instructions.
 
-I think it will only be available to one person at this time. The idea came from a hair stylist who needs to transition from being an employee to just renting her station and purchasing her own supplies, keeping inventory and payment.
 ### Features
 Include Features here
 
-Stylist or Owner login(whichever seems to be the direction it goes in)
-Some way to book appointments
-A way to track inventory and costs
-Possibly a way to track promotions if offered
-Listing prices for hair cuts, color, styling, children, men, women
+There will be login for users and a box for suggestions to add items or maybe to include an additional health condition.
+Users will search for particular type of recipe with certain ingredients they choose
+
 
 ### Technologies
 Include Technologies here
 
-Java
+Javascript and Angular
+VSCode
 
 ### What I'll Have to Learn
 Include what you will need to learn here
 
-How will data be stored
-How will stylist access it. How will it work on their computer or tablet.
-I would like to somehow create a database
-Can I write to spreadsheet
+Relearn angular and more angular to create front end
+
 ### Project Tracker
 Link to your Trello board here
+
+https://trello.com/b/bf9bPzPK/recipe-builder
