@@ -7,31 +7,25 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+The purpose of this project is to provide information for patients who are afflicted with one or more of the following disorders: diabetes (type 1 and 2), hypertension, and celiac disorder. The application aims to provide a number of recipes for meals that are compatible with patient disorders. Users will fill out a questionnaire where they list their disorders, select foods that they are particlarly fond of, and select foods that they do not wish to eat. The application will filter recipes by these answers and then present them to users.
 
-My project is a recipe builder for people with one of three health conditions. When someone chooses their condition recipe suggestions can be chosen. They can choose what type of meat they want or no meat and things like gluten free.
-
-The person can choose to leave out certain foods they don't like. My group chose the idea from a few suggestions from group participants. It will look through options from online sources. They will get the ingredients and cooking instructions.
+Additionally, the application will assist users in finding patient care within a radius of a certain zip code. Patient care can vary from inpatient hospitals to outpatient clinics.
 
 ### Features
-Include Features here
+The purpose of this project is to provide information for patients who are afflicted with one or more of the following disorders: diabetes (type 1 and 2), hypertension, and celiac disorder. The application aims to provide a number of recipes for meals that are compatible with patient disorders. Users will fill out a questionnaire where they list their disorders, select foods that they are particlarly fond of, and select foods that they do not wish to eat. The application will filter recipes by these answers and then present them to users.
 
-There will be login for users and a box for suggestions to add items or maybe to include an additional health condition.
-Users will search for particular type of recipe with certain ingredients they choose
-
+Additionally, the application will assist users in finding patient care within a radius of a certain zip code. Patient care can vary from inpatient hospitals to outpatient clinics.
 
 ### Technologies
-Include Technologies here
+Java MySQL Angular CLI TypeScript JavaScript Bootstrap
 
-Javascript and Angular
-VSCode
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will have to review and re-teach myself JavaScript, TypeScript, and Angular in order to work on the front-end, which will connect to a Java-based back-end. I will also have to learn how to connect my front-end to my back-end, as that was not covered in LC101.
 
 Relearn angular and more angular to create front end
 
 ### Project Tracker
-Link to your Trello board here
+Our group is using a GitKraken board to track project progress. https://app.gitkraken.com/glo/board/XlMj8KMmogAQiwdc
 
 https://trello.com/b/bf9bPzPK/recipe-builder
